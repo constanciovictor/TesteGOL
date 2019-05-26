@@ -1,0 +1,27 @@
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.deps.json
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.runtimeconfig.json
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.dll
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.pdb
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorAssemblyInfo.cache
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorAssemblyInfo.cs
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.dll
+C:\Users\Pichau\source\repos\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.pdb
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.deps.json
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.runtimeconfig.json
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.runtimeconfig.dev.json
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.dll
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\bin\Debug\netcoreapp2.2\Gol_Teste_API.pdb
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorAssemblyInfo.cache
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorAssemblyInfo.cs
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.AssemblyInfoInputs.cache
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.AssemblyInfo.cs
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.RazorTargetAssemblyInfo.cache
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.dll
+C:\Projetos\Teste Angular GOL\Gol_Teste_API\Gol_Teste_API\obj\Debug\netcoreapp2.2\Gol_Teste_API.pdb

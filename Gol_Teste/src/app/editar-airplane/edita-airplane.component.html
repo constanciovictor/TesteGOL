@@ -1,0 +1,16 @@
+<div class="col-md-6">
+  <h2 class="text-center">Edita AirPlane</h2>
+  <form [formGroup]="editForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="modelo">Modelo:</label>
+      <input type="text" formControlName="modelo" placeholder="Modelo" name="modelo" class="form-control" id="modelo">
+    </div>
+
+    <div class="form-group">
+      <label for="qtdePassageiros">Qtde Passageiros:</label>
+      <input type="number" formControlName="qtdePassageiros" placeholder="00000" name="qtdePassageiros" class="form-control" id="qtdePassageiros">
+    </div>
+
+    <button class="btn btn-success">Salvar</button>
+  </form>
+</div>
